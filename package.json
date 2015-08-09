@@ -1,0 +1,12 @@
+{
+  "name": "thinkpad-fan-daemon",
+  "version": "0.0.0",
+  "description": "Monitor ThinkPad temperatures and adjust fan speed on Linux",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/thinkpad-fan-daemon.js",
+  "license": "MIT",
+  "dependencies": {
+    "array-find": "^1.0.0",
+    "async": "^1.4.1"
+  }
+}
